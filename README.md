@@ -1,4 +1,4 @@
-# 🎒 Pokémon TCG - OSB Master Set [Italiano] (600 PPI / 300 PPI)
+# 🎒 Pokémon TCG - OBF Master Set [Italiano] (600 PPI / 300 PPI)
 
 Benvenuti in questo archivio open-source dedicato alla riproduzione e al playtest del set OSB con testi interamente in italiano. Questo progetto nasce per permettere ad appassionati e collezionisti di stampare copie di altissima qualità per uso personale, salvaguardando le carte originali da usura e graffi.
 
