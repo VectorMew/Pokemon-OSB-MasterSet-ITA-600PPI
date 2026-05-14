@@ -8,8 +8,8 @@ Benvenuti in questo archivio open-source dedicato alla riproduzione e al playtes
 
 All'interno di questo repository troverai due modalità di utilizzo:
 
-1. **`File_OSB_Ita_MasterSet_Ready.pdf` (600 PPI):** Un unico file PDF da 115 MB pronto per la stampa. Contiene 52 pagine totali disposte in sequenza alternata (Pagina 1: Fronte, Pagina 2: Retro, Pagina 3: Fronte, Pagina 4: Retro...) ottimizzato per il formato A4.
-2. **`OSB_Ita_230_Cards_PNG.zip` (300 PPI):** Un archivio compresso contenente tutte le 230 carte singole del set in formato PNG ad alta definizione, ideali se vuoi stampare solo carte specifiche o per l'utilizzo su simulatori digitali.
+1. **`FULL_MasterSet_OBF_ITA.pdf` (600 PPI):** Un unico file PDF da 115 MB pronto per la stampa. Contiene 52 pagine totali disposte in sequenza alternata (Pagina 1: Fronte, Pagina 2: Retro, Pagina 3: Fronte, Pagina 4: Retro...) ottimizzato per il formato A4.
+2. **`TCG_FullSET_OBF_ITA_PNG.zip` (300 PPI):** Un archivio compresso contenente tutte le 230 carte singole del set in formato PNG ad alta definizione, ideali se vuoi stampare solo carte specifiche o per l'utilizzo su simulatori digitali.
 
 ---
 
