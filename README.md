@@ -1,4 +1,4 @@
-# 🎒 Pokémon TCG - OBF Master Set [Italiano] (600 PPI / 300 PPI)
+# 🎒 Pokémon TCG - OBF Master Set [Italiano] (300 PPI)
 
 Benvenuti in questo archivio open-source dedicato alla riproduzione e al playtest del set OBF con testi interamente in italiano. Questo progetto nasce per permettere ad appassionati e collezionisti di stampare copie di altissima qualità per uso personale, salvaguardando le carte originali da usura e graffi.
 
@@ -8,7 +8,7 @@ Benvenuti in questo archivio open-source dedicato alla riproduzione e al playtes
 
 All'interno di questo repository troverai due modalità di utilizzo:
 
-1. **`FULL_MasterSet_OBF_ITA.pdf` (600 PPI):** Un unico file PDF da 115 MB pronto per la stampa. Contiene 52 pagine totali disposte in sequenza alternata (Pagina 1: Fronte, Pagina 2: Retro, Pagina 3: Fronte, Pagina 4: Retro...) ottimizzato per il formato A4.
+1. **`FULL_MasterSet_OBF_ITA.pdf` (300 PPI):** Un unico file PDF da 115 MB pronto per la stampa. Contiene 52 pagine totali disposte in sequenza alternata (Pagina 1: Fronte, Pagina 2: Retro, Pagina 3: Fronte, Pagina 4: Retro...) ottimizzato per il formato A4.
 2. **`TCG_FullSET_OBF_ITA_PNG.zip` (300 PPI):** Un archivio compresso contenente tutte le 230 carte singole del set in formato PNG ad alta definizione, ideali se vuoi stampare solo carte specifiche o per l'utilizzo su simulatori digitali.
 
 ---
